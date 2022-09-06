@@ -1,5 +1,4 @@
-# ROOM-DB
-Form Using ROOMDB
+ 
 plugins {
     id 'com.android.application'
     id  'kotlin-android'
